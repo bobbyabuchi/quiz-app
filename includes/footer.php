@@ -1,0 +1,1 @@
+<p>&copy; 2020 HFT Research Team | <a href="http://hft.com.ng">HFT.com.ng</a> | All rights reserved.</p>

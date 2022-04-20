@@ -1,0 +1,123 @@
+1. What is your highest level of education? 
+	- SLSC 100
+	- BSc 150
+	- MSc 200
+	- PhD 250
+
+	http://localhost/mscore/get?sex=male&Q1=250&Q2=50&QX=50&submit=Submit
+
+2. Do you have a regular job?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+3. Do you have a successful business or organization?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+4. Do you have valuable asset(s)?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+5. Do you have a good relationship with your family members?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+6. Do you have a good relationship at your work place?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+7. Do you have a good relationship the members of your local church?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+8. Do you have a good relationship people on the Internet (social media, etc.)?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+9. How often do you give, to charity and to the work of the LORD?
+	- Often 50
+	- Rarely 0
+	- Never 0 
+
+10. Do you have a relationship with someone you adhere to his/her instructions other than your parents?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+
+11. How well do you know the Bible?
+	- Quite Well 50
+	- Not much 0
+	- I don't read the Bible 0 
+
+12. How often do you follow instructions in the Bible?
+	- Often 50
+	- Rarely 0
+	- Never 0 
+
+13. How often do you fast?
+	- When there is a need to 50
+	- Regularly 50
+	- Rarely 0
+	- Never 0
+
+14. How often do you follow the leading of the Holy Spirit?
+	- Often 50
+	- Rarely 0
+	- Who is the Holy Spirit? 
+		(this answer should trigger *updated* page of links to messages and articles on the Holy Ghost on submit.)
+
+15. Do you have liberty in your Spirit to serve God, without any feeling of unworthiness?
+	- Yes 50
+	- No 0
+	- Can't say
+		(this answer should trigger *updated* page of links to messages and articles on the cross and the blood on submit.)
+
+16. Do you have a constant and consistent prayer life?
+	- Yes 50
+	- Not really 0
+	- No 0
+
+17. How often do you win souls for God?
+	- Very Often 50
+	- Quite Often 50
+	- Rarely 0
+	- What does it really mean to win souls? 
+		(this answer should trigger *updated* page of links to messages and articles on effective Christian witness on submit.)
+
+18. Do you think you are in line with the purpose of God for your life?
+	- Yes 50
+	- No 0
+	- I guess so 0
+
+19. Do you have God's approval and support to marry him or her?
+	- Yes 50
+	- No 0
+	- I guess so 0
+
+20. Do you have approval and support from your family and his/her family to marry him or her?
+	- Yes 50
+	- No 0
+	- I guess so 0
+ 
+21. Have you received Jesus Christ as your Saviour and LORD?
+	- Yes 50
+	- No 0
+	- What does it really mean?
+	- Don't think it's necessary
+		(this answer should trigger gospel of salvation)
+
+About the questions
+After reading the book finding the bone of your bones by Gbile Akanni, I was inspired to prepare a marriage score card for myself. I realized that this applies to all of us generally...
+
+
+Total Score 		- 1250
+- Male PassScore	- 875 900
+- Female PassScore	- 735 750

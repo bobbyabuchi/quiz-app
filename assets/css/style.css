@@ -1,0 +1,35 @@
+.header {
+	min-height: 20px;
+	padding: 20px;
+}
+
+.navi {
+	min-height: 50px;
+	padding: 20px;
+	background-color: purple;
+	color: white;
+}
+
+.stats {
+	min-height: 400px;
+	padding: 20px;
+}
+
+.footer {
+	min-height: 20px;
+	background-color: #310251;
+	padding: 20px;
+	color: white;
+}
+
+.smg {
+	margin: 10px;
+}
+
+.smg-top {
+	margin-top: 10px;
+}
+
+.pad {
+	padding: 5px;
+}
